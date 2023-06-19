@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736591533678",
+    "project_id": "ecommerce-64128",
+    "storage_bucket": "ecommerce-64128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736591533678:android:a034f6b2121a964785b87f",
+        "android_client_info": {
+          "package_name": "com.digitaldreamers.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736591533678-j4vtesfo3vqoupmo8kc0nf9ac38sn8ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr8RJ31gxlc1YSVr8-ydQRhmdcYSSRiTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736591533678-j4vtesfo3vqoupmo8kc0nf9ac38sn8ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GroFresh</string>
+    <string name="facebook_app_id">YOUR_APP_ID</string>
+    <string name="fb_login_protocol_scheme">fb_YOUR_APP_ID</string>
+    <string name="facebook_client_token">Go_to_your_fb_app->Settings->Advance->Security->Client token</string>
+</resources>
