@@ -1,4 +1,4 @@
-package ccom.digitaldreamers.ecommerce
+package com.digitaldreamers.ecommerce
 
 import io.flutter.embedding.android.FlutterActivity
 
