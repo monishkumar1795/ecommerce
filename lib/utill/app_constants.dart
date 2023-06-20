@@ -3,7 +3,7 @@ import 'package:flutter_grocery/helper/app_mode.dart';
 import 'images.dart';
 
 class AppConstants {
-  static const String appName = 'Digital Dreamers';
+  static const String appName = 'Laundry';
   static const double appVersion = 1.0;
   static const AppMode appMode = AppMode.release;
   static const String baseUrl = 'https://ecomm-admin.digitaldreamers.in';
